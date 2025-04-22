@@ -1,6 +1,5 @@
 # Анализ поиска VK Видео
 
-![VK Video Logo]([https://example.com/vk-video-logo.png](https://images.app.goo.gl/aBQvQSFq9qMrVAX66)) 
 
 ## Описание проекта
 
